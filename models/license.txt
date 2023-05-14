@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hatsune Miku
+* source:	https://sketchfab.com/3d-models/hatsune-miku-70a7b23a5e2b4abe8c84f393fa51f4b5
+* author:	Pokkenjake2021 (https://sketchfab.com/Pokkenjake_2021)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hatsune Miku" (https://sketchfab.com/3d-models/hatsune-miku-70a7b23a5e2b4abe8c84f393fa51f4b5) by Pokkenjake2021 (https://sketchfab.com/Pokkenjake_2021) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
